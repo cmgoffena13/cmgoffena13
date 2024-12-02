@@ -8,12 +8,7 @@
 
  ### 📚 Actively Learning
  - Modern Data Engineering Tools:
-    - AWS
-    - DBT
-    - Snowflake
-    - Spark / Pyspark
-    - Airflow
-    - etc.
+    - AWS, DBT, Snowflake, Spark / Pyspark, Airflow, etc.
 
 #### 🔥 Currently working through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
 - Free Youtube Bootcamp: https://bootcamp.techcreator.io/
@@ -31,8 +26,7 @@
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logoColor=white&logo=git)
 
  ### ☎️ How to Reach Me
- - Current email is attached to my profile
- - Send me a message on LinkedIn! 
+ - Current email is attached to my profile or you can send me a message on LinkedIn!
 
 <br>
 <small><small>Logos by <a href="https://icons8.com">Icons8</a> & <a href="https://simpleicons.org/">SimpleIcons</a></small></small>
