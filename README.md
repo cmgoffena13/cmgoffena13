@@ -21,6 +21,7 @@
  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker)
  ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logoColor=white&logo=flask)
+ ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logoColor=white&logo=jinja)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logoColor=white&logo=bootstrap)
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logoColor=white&logo=git)
