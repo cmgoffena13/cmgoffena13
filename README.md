@@ -4,6 +4,7 @@
  ### 😛 About Me
  - 👾 Senior Data Engineer 
  - 🐍 Dabbler in Web Development
+ - 🔒 Security & Privacy Hobbyist
  - 💪 Self-taught
 
  ### 📚 Actively Learning
