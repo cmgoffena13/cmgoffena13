@@ -8,17 +8,17 @@
  - 💪 Self-taught
 
  ### 🎉 Portfolio Projects
-  1. Government Officials Stock Trades  
-    - <a href="https://github.com/cmgoffena13/DE-Capstone-Portfolio-1">Repo/Documentation</a>  
-    - <a href="https://lookerstudio.google.com/reporting/8d054d46-3ad9-4a95-a42a-2456af1f8f2e">Looker Dashboard</a>
+  - Government Officials Stock Trades  
+     - <a href="https://github.com/cmgoffena13/DE-Capstone-Portfolio-1">Repo/Documentation</a>  
+     - <a href="https://lookerstudio.google.com/reporting/8d054d46-3ad9-4a95-a42a-2456af1f8f2e">Looker Dashboard</a>
 
  ### 📚 Actively Learning
  - Modern Data Engineering Tools:
     - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, etc.
 
 ### 🔥 Working through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
-- Free Youtube Bootcamp (Until 2025): https://bootcamp.techcreator.io/
-- Paid Bootcamp (Starting January 6th 2025): https://www.dataexpert.io/ 
+- <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Until 2025)</a>
+- <a href="https://www.dataexpert.io/">Paid Bootcamp (Starting January 6th, 2025)</a>
 
  ### 🛠️ Skills
  ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logoColor=white&logo=snowflake)
