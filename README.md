@@ -7,6 +7,9 @@
  - 🔒 Security & Privacy Hobbyist
  - 💪 Self-taught
 
+ ### 🎉 Portfolio Projects
+  1. <a href="https://github.com/cmgoffena13/DE-Capstone-Portfolio-1">Government Officials Stock Trades</a>
+
  ### 📚 Actively Learning
  - Modern Data Engineering Tools:
     - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, etc.
@@ -21,6 +24,9 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logoColor=white&logo=postgresql)
  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker)
  ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
+ ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logoColor=white&logo=snowflake)
+ ![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat&logoColor=white&logo=dbt)
+ ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logoColor=white&logo=apacheairflow)
  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logoColor=white&logo=flask)
  ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logoColor=white&logo=jinja)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5)
