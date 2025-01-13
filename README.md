@@ -14,7 +14,7 @@
 
  ### 📚 Actively Learning
  - Modern Data Engineering Tools:
-    - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, etc.
+    - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, Iceberg, etc.
 
 ### 🔥 Working through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
 - <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>  
