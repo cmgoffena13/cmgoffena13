@@ -17,7 +17,8 @@
     - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, etc.
 
 ### 🔥 Working through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
-- <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>
+- <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>  
+    - Completed: <a href="https://bootcamp.techcreator.io/certification/cmgoffena13/free-bootcamp-completion?__clerk_synced=true">Certification</a>
 - <a href="https://www.dataexpert.io/">Paid Bootcamp (Jan 6th, 2025 - Feb 14th, 2025)</a>
 
  ### 🛠️ Skills
