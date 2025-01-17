@@ -42,6 +42,7 @@
  ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logoColor=white&logo=looker)
  ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logoColor=white&logo=gunicorn)
  ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logoColor=white&logo=nginx)
+ ![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?style=flat&logoColor=white&logo=openssl)
 
  ### ☎️ How to Reach Me
  - Current email is attached to my profile or you can send me a message on LinkedIn!  
