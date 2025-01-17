@@ -40,7 +40,8 @@
  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logoColor=white&logo=amazonwebservices)
  ![PowerBI](https://img.shields.io/badge/-PowerBI-FFC107?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2Zy0rDUBBAz8quKiioqGB+SRBF/QWl/6fNuupGXQrqxk/QLMwqcmECIfTmJuTh3DIHsigzbed0OkmYgGEYhqGEGbAAHoEMKBQcmdRzC2y1kTgGXhUUXjQcL1JnYydKiS/gDJijgzlwCrxJfc9NnVlUJHbRyY7U5+q88SU9SYLrhGbOpc4HX8KPJGj5O/nYljq/fQnlMMVA0VSriQxEAqRyzVgCJ7F2xElUrxf3sYrkNRH3OkqRdVfxUG734ASYiO8XmeKso7ojaYezjmqRvMNZR7VI0aGQqEWSwAxFIxKaoWhEQjMUjUjfeBUTGWJY1XQk7TmsakTynsM6mUgmwb3Am8cqtK3Ifmj5UK6DLpSLXIbWQeWC7l2sNYocAB8Sc3vg4MrUJV8pE7kGPiv7X1evl6PaEluTSFGROKQFM2nbSpnISva9rR4rNPHfIoOxMSJ57Ut+J44PxjJwizJ2fDAS+XD3+OFuzU3j2HHDMAw2hz8sz1ws6P2ccwAAAABJRU5ErkJggg==)
  ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logoColor=white&logo=looker)
-
+ ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logoColor=white&logo=gunicorn)
+ ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logoColor=white&logo=nginx)
 
  ### ☎️ How to Reach Me
  - Current email is attached to my profile or you can send me a message on LinkedIn!  
