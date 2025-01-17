@@ -1,11 +1,11 @@
-## Hi there 👋, I am Cortland Goffena
-## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cortlandgoffena/)](https://www.linkedin.com/in/cortlandgoffena/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat&logo=&logoColor=white&link=https://medium.com/@cortlandgoffena)](https://medium.com/@cortlandgoffena) 
+## Hi there 👋, I am Cortland Goffena 
+## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cortlandgoffena/)](https://www.linkedin.com/in/cortlandgoffena/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat&logo=&logoColor=white&link=https://medium.com/@cortlandgoffena)](https://medium.com/@cortlandgoffena)
 
  ### 😛 About Me
  - 👾 Senior Data Engineer 
  - 🐍 Dabbler in Web Development
  - 🔒 Security & Privacy Hobbyist
- - 💪 Self-taught
+ - 💪 Self-Taught
 
  ### 🎉 Portfolio Projects
   - Government Officials Stock Trades  
@@ -43,7 +43,10 @@
 
 
  ### ☎️ How to Reach Me
- - Current email is attached to my profile or you can send me a message on LinkedIn!
+ - Current email is attached to my profile or you can send me a message on LinkedIn!  
 
 <br>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=cmgoffena13)
+
 <small><small>Logos by <a href="https://icons8.com">Icons8</a> & <a href="https://simpleicons.org/">SimpleIcons</a></small></small>
