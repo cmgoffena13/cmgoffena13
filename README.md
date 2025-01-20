@@ -45,7 +45,7 @@
  ![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?style=flat&logoColor=white&logo=openssl)
 
  ### ☎️ How to Reach Me
- - Current email is attached to my profile or you can send me a message on LinkedIn!  
+ - Current email is attached to my profile. You can also go through my personal website or you can send me a message on LinkedIn!  
 
 <br>
 
