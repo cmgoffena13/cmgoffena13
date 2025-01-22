@@ -38,7 +38,7 @@
   | Web Development       | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logoColor=white&logo=flask) ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logoColor=white&logo=jinja) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logoColor=white&logo=bootstrap) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logoColor=white&logo=gunicorn) ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logoColor=white&logo=nginx)  |
 
  ### ☎️ How to Reach Me
- - Current email is attached to my profile. You can also go through my personal website or you can send me a message on LinkedIn!  
+ - You can go through my personal website or send me a message on LinkedIn!  
 
 <br>
 
