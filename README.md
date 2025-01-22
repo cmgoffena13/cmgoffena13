@@ -16,7 +16,7 @@
  - Modern Data Engineering Tools:
     - AWS, DBT, Snowflake, Spark/Pyspark, Airflow, Iceberg, etc.
  - Software Engineering / Web Development
-    - Current project: <a href="cortlandgoffena.com">cortlandgoffena.com</a>
+    - Current project: <a href="https://cortlandgoffena.com">cortlandgoffena.com</a>
 
 ### 🔥 Working through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
 - <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>  
