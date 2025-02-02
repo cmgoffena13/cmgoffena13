@@ -11,6 +11,8 @@
   - Government Officials Stock Trades  
      - <a href="https://github.com/cmgoffena13/DE-Capstone-Portfolio-1">Repo/Documentation</a>  
      - <a href="https://lookerstudio.google.com/reporting/8d054d46-3ad9-4a95-a42a-2456af1f8f2e">Looker Dashboard</a>
+  - Real-Time Stock Prices & News (WIP)
+     - <a href="https://github.com/cmgoffena13/DE-Capstone-Portfolio-2">Repo/Documentation</a>
 
  ### 📚 Actively Learning
  - Modern Data Engineering Tools:
