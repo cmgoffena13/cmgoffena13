@@ -16,12 +16,11 @@
  ### 📚 Actively Learning
    - Anything Rust-based or GCP
 
-### 🔥 Worked through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps
+### 🔥 Worked through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps - 91 Straight Days
 - <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>  
     - Completed: <a href="https://bootcamp.techcreator.io/certification/cmgoffena13/free-bootcamp-completion?__clerk_synced=true">Certification</a>
 - <a href="https://www.dataexpert.io/">Paid Bootcamp (Jan 6th, 2025 - Feb 14th, 2025)</a>
     - Completed: <a href="https://www.dataexpert.io/certification/cmgoffena13/combined-superb">Certification</a>
-- 91 Straight Days
 
  ### 🛠️ Skills
  | **Category**          | **Technologies** |
