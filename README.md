@@ -9,7 +9,7 @@
 
  ### 🎉 Creator of the Watcher Framework (<a href="https://medium.com/@cortlandgoffena/watcher-framework-tutorial-pt1-basic-setup-ae9bf15d777b">Tutorial Article Series</a>)
   - Watcher ETL Metadata Framework
-     - <a href="https://github.com/cmgoffena13/watcher">Repo</a> / <a href="https://watcher-etl.readthedocs.io/en/latest/">Documentation</a>
+     - <a href="https://github.com/cmgoffena13/etl-watcher">Repo</a> / <a href="https://etl-watcher.readthedocs.io/en/latest/">Documentation</a>
   - Watcher SDK
      - <a href="https://github.com/cmgoffena13/etl-watcher-sdk">Repo</a> / <a href="https://etl-watcher-sdk.readthedocs.io/en/latest/">Documentation</a>
 
