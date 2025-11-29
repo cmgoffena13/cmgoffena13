@@ -2,9 +2,11 @@
 ## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cortlandgoffena/)](https://www.linkedin.com/in/cortlandgoffena/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat&logo=&logoColor=white&link=https://medium.com/@cortlandgoffena)](https://medium.com/@cortlandgoffena)
 
  ### 😛 About Me
+ - 🧠 DataOps Mindset
  - 👾 Data Engineer 
  - 🐍 Dabbler in Web Development
  - 🔒 Security & Privacy Hobbyist
+ - ⚡ Performance Obsessed
  - 💪 Self-Taught
 
  ### 🎉 Creator of the Watcher Framework (<a href="https://medium.com/@cortlandgoffena/watcher-framework-tutorial-pt1-basic-setup-ae9bf15d777b">Tutorial Article Series</a>)
@@ -15,7 +17,9 @@
 
 
  ### 📚 Actively Learning
-   - Anything Rust-based or GCP
+   - Code architecture principles for building scalable, extensible ETL frameworks
+   - MLOps best practices for production-grade machine learning workflows
+   - Agentic AI workflows and separating practical value from hype
 
 ### 🔥 Worked through <a href="https://www.linkedin.com/in/eczachly/">Zach Wilson</a>'s Data Engineering Bootcamps - 91 Straight Days
 - <a href="https://bootcamp.techcreator.io/">Free Youtube Bootcamp (Nov 15, 2024 - Jan 6th, 2025)</a>  
