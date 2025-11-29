@@ -3,7 +3,7 @@
 
  ### 😛 About Me
  - 🧠 DataOps Mindset
- - 👾 Data Engineer 
+ - 👾 Data Architect & Engineer 
  - 🐍 Dabbler in Web Development
  - 🔒 Security & Privacy Hobbyist
  - ⚡ Performance Obsessed
@@ -17,7 +17,7 @@
 
 
  ### 📚 Actively Learning
-   - Code architecture principles for building scalable, extensible ETL frameworks
+   - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
    - MLOps best practices for production-grade machine learning workflows
    - Agentic AI workflows and separating practical value from hype
 
