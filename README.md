@@ -6,6 +6,7 @@
  - 👾 Data Architect & Engineer 
  - 🐍 Dabbler in Web Development
  - 🔒 Security & Privacy Hobbyist
+ - 🤝 Open Source Contributor
  - ⚡ Performance Obsessed
  - 💪 Self-Taught
 
@@ -46,7 +47,6 @@ FileLoader
  | DevOps                | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logoColor=white&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logoColor=white&logo=grafana) ![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logoColor=white&logo=gitlab) |
   | Web Development       | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logoColor=white&logo=flask) ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logoColor=white&logo=jinja) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logoColor=white&logo=bootstrap) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logoColor=white&logo=gunicorn) ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logoColor=white&logo=nginx) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logoColor=white&logo=fastapi) |  
   Data Streaming | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logoColor=white&logo=apachekafka) ![Flink](https://img.shields.io/badge/-Flink-E6526F?style=flat&logoColor=white&logo=apacheflink) |  
-
 
  ### ☎️ How to Reach Me
  - Feel free to send me a message on LinkedIn!  
