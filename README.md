@@ -22,6 +22,10 @@ FileLoader
  - FileLoader ETL Framework
    - <a href="https://github.com/cmgoffena13/etl-file-loader">Repo</a>
 
+ApiLoader
+ - ApiLoader ETL Framework
+   - <a href="https://github.com/cmgoffena13/etl-api-loader">Repo</a>
+
  ### 📚 Actively Learning
    - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
    - MLOps best practices for production-grade machine learning workflows
