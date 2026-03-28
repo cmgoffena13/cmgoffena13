@@ -11,24 +11,10 @@
  - 💪 Self-Taught
 
  ### 🎉 Projects 
- 
- Watcher (<a href="https://medium.com/@cortlandgoffena/watcher-framework-tutorial-pt1-basic-setup-ae9bf15d777b">Tutorial Article Series</a>)
-  - Watcher ETL Metadata Framework
-     - <a href="https://github.com/cmgoffena13/etl-watcher">Repo</a> / <a href="https://etl-watcher.readthedocs.io/en/latest/">Documentation</a>
-  - Watcher SDK
-     - <a href="https://github.com/cmgoffena13/etl-watcher-sdk">Repo</a> / <a href="https://etl-watcher-sdk.readthedocs.io/en/latest/">Documentation</a>
-
-FileLoader
- - FileLoader ETL Framework
-   - <a href="https://github.com/cmgoffena13/etl-file-loader">Repo</a>
-
-ApiLoader
- - ApiLoader ETL Framework
-   - <a href="https://github.com/cmgoffena13/etl-api-loader">Repo</a>
-
-Selene
- - Local AI Assistant
-   - <a href="https://github.com/cmgoffena13/selene-ai">Repo</a>
+ - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher</a>
+ - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader</a>
+ - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader</a>
+ - <a href="https://github.com/cmgoffena13/selene-ai">Selene</a>
 
  ### 📚 Actively Learning
    - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
