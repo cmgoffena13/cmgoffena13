@@ -17,14 +17,14 @@
  - <a href="https://github.com/cmgoffena13/sqlmodel-json-parser">SQLModel Json Parser</a> - Parse Json into multiple SQLModels
  - <a href="https://github.com/cmgoffena13/selene-ai">Selene</a> - Local Command Line AI
 
- ### Documentation
+ ### 📖 Documentation
  - <a href="https://github.com/cmgoffena13/ai-need-to-know">AI - Need to Know</a>
  - <a href="https://github.com/cmgoffena13/MLOps-Explained">MLOps Explained</a>
  - <a href="https://github.com/cmgoffena13/Modern-Python-Project-Template">Python Project Template</a>
  - <a href="https://github.com/cmgoffena13/spark-tuning">Spark Tuning</a>
  - <a href="https://github.com/cmgoffena13/httpx-best-practices">httpx Best Practices</a>
 
- ### Demo Projects
+ ### 🎬 Demo Projects
  - <a href="https://github.com/cmgoffena13/event-sourcing-demo">Event Sourcing</a>
  - <a href="https://github.com/cmgoffena13/zero-access-encryption">Zero Access Encryption</a>
  - <a href="https://github.com/cmgoffena13/sqlmesh-test-project">SQLMesh Open Source Project</a>
