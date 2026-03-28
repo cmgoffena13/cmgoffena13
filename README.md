@@ -11,10 +11,10 @@
  - 💪 Self-Taught
 
  ### 🎉 Projects 
- - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher: ETL Metadata Framework - Track Metadata about ETL Pipelines & Executions</a>
- - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader: ETL Framework - Create Configurable ETL Pipelines to Ingest Files</a>
- - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader: ETL Framework - Create Configurable ETL Pipelines that Ingest APIs</a>
- - <a href="https://github.com/cmgoffena13/sqlmodel-json-parser">SQLModel Json Parser: Parse Json into multiple SQLModels</a>
+ - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher - ETL Metadata Framework</a>
+ - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader - ETL Framework</a>
+ - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader - ETL Framework</a>
+ - <a href="https://github.com/cmgoffena13/sqlmodel-json-parser">SQLModel JSON Parser</a>
  - <a href="https://github.com/cmgoffena13/selene-ai">Selene: Local Command Line AI</a> 
 
  ### 📖 Documentation
