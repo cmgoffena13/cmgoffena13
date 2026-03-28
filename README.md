@@ -11,11 +11,11 @@
  - 💪 Self-Taught
 
  ### 🎉 Projects 
- - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher</a> - ETL Metadata Framework: Track Metadata about ETL Pipelines & Executions
- - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader</a> - ETL Framework: Create Configurable ETL Pipelines to Ingest Files
- - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader</a> - ETL Framework: Create Configurable ETL Pipelines that Ingest APIs
- - <a href="https://github.com/cmgoffena13/sqlmodel-json-parser">SQLModel Json Parser</a> - Parse Json into multiple SQLModels
- - <a href="https://github.com/cmgoffena13/selene-ai">Selene</a> - Local Command Line AI
+ - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher - ETL Metadata Framework: Track Metadata about ETL Pipelines & Executions</a>
+ - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader - ETL Framework: Create Configurable ETL Pipelines to Ingest Files</a>
+ - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader - ETL Framework: Create Configurable ETL Pipelines that Ingest APIs</a>
+ - <a href="https://github.com/cmgoffena13/sqlmodel-json-parser">SQLModel Json Parser - Parser: Parse Json into multiple SQLModels</a>
+ - <a href="https://github.com/cmgoffena13/selene-ai">Selene - AI: Local Command Line AI</a> 
 
  ### 📖 Documentation
  - <a href="https://github.com/cmgoffena13/ai-need-to-know">AI - Need to Know</a>
