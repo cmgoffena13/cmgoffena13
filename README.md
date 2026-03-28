@@ -11,10 +11,22 @@
  - 💪 Self-Taught
 
  ### 🎉 Projects 
- - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher</a>
- - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader</a>
- - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader</a>
- - <a href="https://github.com/cmgoffena13/selene-ai">Selene</a>
+ - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher</a> - ETL Metadata Framework
+ - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader</a> - ETL Framework
+ - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader</a> - ETL Framework
+ - <a href="https://github.com/cmgoffena13/selene-ai">Selene</a> - Local Command Line AI
+
+ ### Documentation
+ - <a href="https://github.com/cmgoffena13/ai-need-to-know">AI - Need to Know</a>
+ - <a href="https://github.com/cmgoffena13/MLOps-Explained">MLOps Explained</a>
+ - <a href="https://github.com/cmgoffena13/Modern-Python-Project-Template">Python Project Template</a>
+ - <a href="https://github.com/cmgoffena13/spark-tuning">Spark Tuning</a>
+ - <a href="https://github.com/cmgoffena13/httpx-best-practices">httpx Best Practices</a>
+
+ ### Demo Projects
+ - <a href="https://github.com/cmgoffena13/event-sourcing-demo">Event Sourcing</a>
+ - <a href="https://github.com/cmgoffena13/zero-access-encryption">Zero Access Encryption</a>
+ - <a href="https://github.com/cmgoffena13/sqlmesh-test-project">SQLMesh Open Source Project</a>
 
  ### 📚 Actively Learning
    - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
