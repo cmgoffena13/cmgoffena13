@@ -4,11 +4,13 @@
  ### 😛 About Me
  - 🧠 DataOps Mindset
  - 👾 Data Architect & Engineer 
- - 🐍 Dabbler in Web Development
- - 🔒 Security & Privacy Hobbyist
  - 🤝 Open Source Contributor
  - ⚡ Performance Obsessed
  - 💪 Self-Taught
+ - Dabbler in:
+    - 🐍 Web Development
+    - 🔒 Security & Privacy
+    - 🦀 Rust
 
  ### 🎉 Projects 
  - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher - ETL Metadata Framework</a>
