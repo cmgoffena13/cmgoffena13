@@ -3,7 +3,7 @@
 
  ### 😛 About Me
  - 👾 Data Architect & Engineer 
- - 🤝 Open Source Contributor
+ - 🤝 SQLMesh Maintainer
  - ⚡ Performance Obsessed
  - 💪 Self-Taught
  - Dabbler in:
