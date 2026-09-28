@@ -3,7 +3,7 @@
 
  ### 😛 About Me
  - 👾 Data Architect & Engineer 
- - 🤝 SQLMesh Maintainer
+ - 🤝 <a href="https://github.com/sqlmesh/sqlmesh">SQLMesh</a> Maintainer
  - ⚡ Performance Obsessed
  - 💪 Self-Taught
  - Dabbler in:
@@ -15,6 +15,7 @@
  - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher - ETL Metadata Framework</a>
  - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader - ETL Framework</a>
  - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader - ETL Framework</a>
+ - <a href="https://github.com/cmgoffena13/codebase-parse">Codebase-Parse - Code Indexer MCP Server</a>
 
  ### 📚 Actively Learning
    - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
