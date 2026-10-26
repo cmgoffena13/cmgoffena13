@@ -11,17 +11,6 @@
     - 🔒 Security & Privacy
     - 🦀 Rust
 
- ### 🎉 Projects 
- - <a href="https://github.com/cmgoffena13/etl-watcher">Watcher - ETL Metadata Framework</a>
- - <a href="https://github.com/cmgoffena13/etl-file-loader">FileLoader - ETL Framework</a>
- - <a href="https://github.com/cmgoffena13/etl-api-loader">ApiLoader - ETL Framework</a>
- - <a href="https://github.com/cmgoffena13/codeparse">CodeParse - MCP Server</a>
-
- ### 📚 Actively Learning
-   - Code architecture principles for building scalable, maintainable, & reliable ETL frameworks
-   - MLOps best practices for production-grade machine learning workflows
-   - Agentic AI workflows and separating practical value from hype
-
  ### 🛠️ Skills
  | **Category**          | **Technologies** |
  |-----------------------|------------------|
